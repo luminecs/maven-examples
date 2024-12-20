@@ -1,6 +1,6 @@
 # maven-examples
 
-> Operating System: Fedora Linux 41 (Workstation Edition)
+> Fedora Linux 41 (Workstation Edition), JDK 21, Maven 3.9.8
 > 
 > The original parent `pom.xml` created on 2024-12-20.
 
