@@ -108,3 +108,4 @@ mvn archetype:generate -DgroupId=com.example -DartifactId=app-001 -DarchetypeArt
   * `<url></url>`
   * `<properties></properties>`
   * `<dependencyManagement></dependencyManagement>`
+  * `<pluginManagement></pluginManagement>`
