@@ -101,3 +101,10 @@ mvn --version
 ```bash
 mvn archetype:generate -DgroupId=com.example -DartifactId=app-001 -DarchetypeArtifactId=maven-archetype-quickstart -DarchetypeVersion=1.5 -DinteractiveMode=false -DjavaCompilerVersion=21
 ```
+
+* Remove the following tags in module's `pom.xml`:
+  * `<groupId></groupId>`
+  * `<name></name>`
+  * `<url></url>`
+  * `<properties></properties>`
+  * `<dependencyManagement></dependencyManagement>`
