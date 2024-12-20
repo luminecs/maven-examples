@@ -2,7 +2,7 @@
 
 > Operating System: Fedora Linux 41 (Workstation Edition)
 > 
-> The original parent `pom.xml` created in 2024-12-20.
+> The original parent `pom.xml` created on 2024-12-20.
 
 * Install Maven.
 * Check the Maven version:
