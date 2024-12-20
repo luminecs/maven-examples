@@ -109,3 +109,21 @@ mvn archetype:generate -DgroupId=com.example -DartifactId=app-001 -DarchetypeArt
   * `<properties></properties>`
   * `<dependencyManagement></dependencyManagement>`
   * `<pluginManagement></pluginManagement>`
+
+* Change directory into `app-001`, and the maven convention project structure as shown below:
+
+```text
+.
+├── pom.xml
+└── src
+    ├── main
+    │   └── java
+    │       └── com
+    │           └── example
+    │               └── App.java
+    └── test
+        └── java
+            └── com
+                └── example
+                    └── AppTest.java
+```
