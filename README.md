@@ -127,3 +127,5 @@ mvn archetype:generate -DgroupId=com.example -DartifactId=app-001 -DarchetypeArt
                 └── example
                     └── AppTest.java
 ```
+
+* Check the [standard directory layout](https://maven.apache.org/guides/introduction/introduction-to-the-standard-directory-layout.html). 
